@@ -1,10 +1,6 @@
-<img width="1536" height="1024" alt="banner" src="ТВОЯ_ССЫЛКА_НА_КАРТИНКУ" />
+<img width="1536" height="1024" alt="ChatGPT Image 7 мая 2026 г , 18_55_41" src="https://github.com/user-attachments/assets/f8046ddb-4863-4036-bae0-74974c06b92e" />
 
 # 👋 Hey, I'm Guris
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GurisNew/GurisNew/main/banner.png"/>
-</p>
 
 ━━━━━━━━━━━━━━
 
