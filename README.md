@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey, I'm Guris
 
-<!--
-**GurisNew/GurisNew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=Beginner+Developer;Learning+AI+%26+Cybersecurity;Future+Software+Engineer" />
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 About Me
+
+💻 Beginner Developer  
+🧠 Learning AI & Cybersecurity  
+📍 Fergana, Uzbekistan 🇺🇿
+
+━━━━━━━━━━━━━━
+
+## 🔗 Links
+
+• https://e-z.bio/Guris  
+• https://fakecrime.bio/Guris
+
+━━━━━━━━━━━━━━
+
+## 🚀 Skills
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+
+━━━━━━━━━━━━━━
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=GurisNew&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GurisNew&layout=compact&theme=tokyonight)
+
+━━━━━━━━━━━━━━
+
+## 🎯 Goals
+
+- Learn Python
+- Learn AI
+- Become Software Engineer
+- Create Cool Projects
+
+━━━━━━━━━━━━━━
