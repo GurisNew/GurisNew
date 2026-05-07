@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="ChatGPT Image 7 мая 2026 г , 18_55_41" src="https://github.com/user-attachments/assets/f8046ddb-4863-4036-bae0-74974c06b92e" />
 
 # 👋 Hey, I'm Guris
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=Beginner+Developer;Learning+AI+%26+Cybersecurity;Future+Software+Engineer" />
 ━━━━━━━━━━━━━━
 
 ## 👤 About Me
