@@ -44,3 +44,4 @@
 - Create Cool Projects
 
 ━━━━━━━━━━━━━━
+<img width="1536" height="1024" alt="ChatGPT Image 7 мая 2026 г , 18_55_41" src="https://github.com/user-attachments/assets/f8046ddb-4863-4036-bae0-74974c06b92e" />
