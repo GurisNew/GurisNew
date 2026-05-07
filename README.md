@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="banner" src="ТВОЯ_ССЫЛКА_НА_КАРТИНКУ" />
+
 # 👋 Hey, I'm Guris
 
 <p align="center">
