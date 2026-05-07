@@ -1,6 +1,8 @@
 # 👋 Hey, I'm Guris
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=Beginner+Developer;Learning+AI+%26+Cybersecurity;Future+Software+Engineer" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GurisNew/GurisNew/main/banner.png"/>
+</p>
 
 ━━━━━━━━━━━━━━
 
